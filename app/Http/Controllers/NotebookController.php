@@ -9,8 +9,10 @@ class NotebookController extends Controller
 {
     /**
      * Display a listing of the resource.
+     * Just an example of git
      *
      * @return \Illuminate\Http\Response
+     *
      */
     public function index()
     {
